@@ -1,4 +1,7 @@
 # BANKING77
+
+The work is located at lab.ipynb
+
 ## 📊 Dataset & Task Description
 
 This project utilizes the **BANKING77** dataset (originally curated by PolyAI) to build and evaluate an intent classification system for financial customer support.
