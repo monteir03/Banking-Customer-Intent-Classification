@@ -1,6 +1,6 @@
 # BANKING77 — Intent Classification
 
-check the work on lab,ipynb
+check the work on lab.ipynb
 
 ## 📊 Dataset & Task Description
 
